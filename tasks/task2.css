@@ -1,0 +1,120 @@
+.header-nav{
+    background-color: #1B2E35;
+    color: white;
+    display: flex;
+    padding: 20px;
+    
+}
+.nav-logo{
+  font-style: bold;
+  font-size: 20px;
+}
+.nav-data{
+    margin: 0 35px;
+    
+}
+.input{
+    margin: 0 80px;
+    
+    
+}
+.search-icon{
+    position: relative;
+    right: 105px;
+    top: 3px;
+}
+.section{
+    background-color:#1B2E35 ;
+    height: 40px;
+    color: white;
+    font-size: 40px ;
+    padding: 45px 300px;
+}
+
+.section-middle{
+    background-color:#1B2E35 ;  
+    height: 480px;
+    margin: 30px 80px;
+    color: white;
+    padding: 30px 50px;
+}
+.section-data{
+    font-size: 27px;
+    
+}
+.icon-vector{
+    position: relative;
+    left: 1000px;
+    bottom: 30px;
+    width: 35px;
+}
+.option{
+    background-color:#1B2E35 ; 
+    height: 60px;
+    color: white;
+    font-size: 50px;
+    padding: 10px 30px;
+    width: 100%;
+    margin: 10px 0;
+    position: relative;
+    right: 40px;
+}
+.option-div1{
+    display: flex;
+    justify-content: space-between;
+
+}
+.option-div2{
+    background-color:#1B2E35 ;     
+    height: 450px;
+    width: 31%;
+
+}
+.icon-img{
+    position: relative;
+    left: 15px;
+}
+
+
+
+.bizkimik{
+    background-color:#1B2E35 ;     
+    height: 320px;
+    padding: 20px;
+    margin: 40px 0 ;
+    font-size: 20px;
+  
+
+}
+.footer{
+    background-color:#1B2E35 ;     
+    height: 320px;
+    margin: 40px 0 ;
+    margin-bottom: 0;
+    width: 130% ;
+    position: relative;
+    right: 150px;
+    display: flex;
+
+}
+.footer-ul-tag{
+    list-style-type: none;
+    position: relative;
+    right: 35px;
+}
+.footer-div{
+    margin: 50px;
+}
+.footer-end{
+    background-color:#121f24 ;
+    height: 40px;  
+    width: 130% ;
+    position: relative;
+    right: 150px;
+    font-size: 15px;
+    padding: 30px 60px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

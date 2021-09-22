@@ -1,0 +1,118 @@
+.header-nav{
+    background-color: #1B2E35;
+    color: white;
+    display: flex;
+    padding: 20px;
+    
+}
+.nav-logo{
+  font-style: bold;
+  font-size: 20px;
+}
+.nav-data{
+    margin: 0 35px;
+    
+}
+.input{
+    margin: 0 80px;
+    position: relative;
+    left: 110px;
+    border-radius: 5px;
+       
+}
+.section{
+    background-color: #1B2E35;
+    height: 500px;
+    width: 600px;
+    position: relative;
+    left: 250px;
+    padding: 40px 0;
+    margin: 50px;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    
+}
+.input1{
+    height: 40px;
+    width: 280px;
+margin: 8px;
+margin-left: 30px;
+  padding: 0 30px ;
+}
+.input2{
+    height: 40px;
+    width: 320px;
+margin: 7px;
+padding: 0 15px;
+
+}
+.label{
+    position: relative;
+    
+}
+.google-icon{
+    position: relative;
+    right: 300px;
+    top: 4px;
+    height: 18px;
+    width: 18px;
+}
+.footer{
+    background-color:#1B2E35 ;     
+    height: 320px;
+    margin: 40px 0 ;
+    margin-bottom: 0;
+    
+    position: relative;
+    right: 150px;
+    display: flex;
+    color: white;
+    width: 100%;
+
+}
+.footer-ul-tag{
+    list-style-type: none;
+    position: relative;
+    right: 35px;
+    color: white;
+}
+.footer-div{
+    margin: 50px;
+    position: relative;
+    left: 190PX;
+    
+}
+.footer-end{
+    background-color:#121f24 ;
+    height: 40px;  
+    
+    position: relative;
+    right: 20px;
+    font-size: 15px;
+    padding: 30px 60px;
+}
+.input3{
+    background-color: rgb(243, 201, 13);
+    height: 40px;
+    width: 270px;
+margin: 7px;
+}
+
+.button{
+      background-color: #FFC801;
+      color: white;
+      height: 40px;
+      width: 340px;
+      margin: 10px 0;
+}
+
+.search-icon{
+    position: relative;
+   top:2px ;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}

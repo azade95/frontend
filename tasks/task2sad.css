@@ -1,0 +1,122 @@
+.header-nav{
+    background-color: #1B2E35;
+    color: white;
+    display: flex;
+    padding: 20px;
+}   
+
+.nav-logo{
+  font-style: bold;
+  font-size: 20px;
+}
+.nav-data{
+    margin: 0 35px;
+    
+}
+
+.input{
+    margin: 0 80px;
+    position: relative;
+    left: 110px;
+    border-radius: 5px;
+       
+}
+
+.search-icon{
+    position: relative;
+   top:4px ;
+}
+
+.footer{
+    background-color:#1B2E35 ;     
+    height: 320px;
+    margin: 40px 0 ;
+    margin-bottom: 0;
+    
+    position: relative;
+    right: 30px;
+    display: flex;
+    color: white;
+    width: 100%;
+
+}
+.footer-ul-tag{
+    list-style-type: none;
+    position: relative;
+    right: 0px;
+    color: white;
+}
+.footer-div{
+    margin: 50px  ;
+    position: relative;
+    left: 10PX;
+    
+    
+}
+.footer-end{
+    background-color:#121f24 ;
+    height: 40px;  
+    width: 100%;
+    position: relative;
+  
+    font-size: 15px;
+    padding: 30px 0px;
+    padding-right: 500px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section{
+    background-color: #1B2E35;
+    height: 350px;
+    width: 600px;
+    position: relative;
+    left: 250px;
+    padding: 40px 0;
+    margin: 50px;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  
+    
+}
+.data{
+    display: flex;
+    text-align: center;
+    margin: 0 130px;
+}
+
+.text{
+
+    font-size: 58px;
+    position: relative;
+    top: 10px;
+    
+}
+
+.img{
+    height: 75px;
+    width: 75px;
+    margin: 0 18px;
+}
+
+.input1{
+    height: 50px;
+    width: 180px;
+    margin: 50px 15px;
+    font-size: 15px;
+    border-radius: 5px;
+    
+}
+.border{
+    border-color:  #FFC801;
+    
+}
+
+.color{
+    background-color: rgb(156, 142, 142);
+    color: black;
+}
